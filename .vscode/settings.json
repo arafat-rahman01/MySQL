@@ -1,0 +1,20 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "ABC",
+            "database": "Shop",
+            "username": "root",
+            "password": "01306249973arafat@A",
+            "connectionTimeout": 30
+        }
+    ]
+}
