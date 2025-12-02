@@ -15,6 +15,23 @@
             "username": "root",
             "password": "01306249973arafat@A",
             "connectionTimeout": 30
-        }
+        },
+        {
+  "mysqlOptions": {
+      "authProtocol": "mysql_native_password",
+      "enableSsl": "Disabled"
+  },
+  "ssh": "Disabled",
+  "previewLimit": 50,
+  "server": "localhost",
+  "port": 3306,
+  "driver": "MySQL",
+  "name": "abcC",
+  "username": "root",
+  "password": "01306249973arafat@A",
+  "database": "a",
+  "connectionTimeout": 30
+}
+
     ]
 }
